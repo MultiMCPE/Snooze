@@ -1,5 +1,5 @@
 {
-    "name": "misoftteam/snooze",
+    "name": "multimcpe/snooze",
     "description": "Thread notification management library for code using the pthreads extension",
     "type": "library",
     "require": {
